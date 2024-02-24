@@ -103,7 +103,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
         android:fontFamily="sans-serif-condensed-light"
-        android:text="Made with ❤️ by Pavel"
+        android:text="Made with ❤️ by China :)"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
         app:layout_constraintBottom_toBottomOf="parent"
